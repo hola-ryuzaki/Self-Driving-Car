@@ -1,4 +1,4 @@
-# Self-Driving-Car# Self Driving Car
+Self Driving Car
 # Behavioural Cloning:
 ## Introdution:
 >This project aims to clone human driving behaviour using a Deep Neural Network. To achieve this, we will use a simple Car Simulator provided by Udacity. During the training phase, we navigate our car inside the simulator using the keyboard. While navigating the car, the simulator records images with three different views, i.e. centre view, left view and right view, respective steering angles, speed, and throttle. Then we use those recorded data to train our neural network. The trained model was tested on two tracks: the training track and the validation track.
